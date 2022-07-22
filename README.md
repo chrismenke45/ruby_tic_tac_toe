@@ -1,0 +1,1 @@
+This project allows users to play Tic Tac Toe on the command line.  It is to practice object oriented programming skills with ruby.
